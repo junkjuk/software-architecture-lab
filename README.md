@@ -8,5 +8,3 @@ Purpose: To acquire skills in working with the version control system, the HTTP 
 writing the first code in Go
 
 Done by: Volodymyr Kosinsky, Vadym Pastushok, Shaip Umerov
-
-Хочем 100)
