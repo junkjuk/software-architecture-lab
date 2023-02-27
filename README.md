@@ -3,6 +3,6 @@
 First lab of software architecture.
 
 Done by:
-Volodymyr Kosinsky
-Vadym Pastushok
-Shaip Umerov
+<ul><li>Volodymyr Kosinsky</li>
+<li>Vadym Pastushok</li>
+<li>Shaip Umerov</li></ul>
